@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT_User_Log_Reg_Auth", "JWT_User_Log_Reg_Auth\JWT_User_Log_Reg_Auth.csproj", "{D46DEBA4-EA87-4FE6-A8D8-342DF84B339F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46DEBA4-EA87-4FE6-A8D8-342DF84B339F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46DEBA4-EA87-4FE6-A8D8-342DF84B339F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46DEBA4-EA87-4FE6-A8D8-342DF84B339F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46DEBA4-EA87-4FE6-A8D8-342DF84B339F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D39D2AC-CF83-43F1-BE79-8B6F4C4D3E2B}
+	EndGlobalSection
+EndGlobal
